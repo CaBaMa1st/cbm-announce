@@ -4,7 +4,7 @@
 
 ### Creditos
 
-- Discord: reysel // https://discord.gg/8Kqmxu7YH6
+- Discord: (<reysel>#3141) // https://discord.gg/8Kqmxu7YH6
 - Vista previa | Preview : https://streamable.com/c6vsa9
 
 ### Desc
