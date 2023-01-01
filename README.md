@@ -5,6 +5,7 @@
 ### Creditos
 
 - Discord: reysel // https://discord.gg/8Kqmxu7YH6
+- Script Original | Original Resource : https://github.com/Reysel1/r-announcefree
 - Vista previa | Preview : https://streamable.com/c6vsa9
 
 ### Desc
