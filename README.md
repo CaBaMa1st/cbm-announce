@@ -1,6 +1,8 @@
 ### Preview (ESX & new UI)
 
 - Vista previa | Preview : [image/imagen](https://cdn.discordapp.com/attachments/1058922306300301322/1058931321864466553/image.png)
+- Facil de Editar
+- Optimizado
 
 ### Creditos
 
